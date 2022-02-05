@@ -1,4 +1,4 @@
-# Welcome to vue-weather 👋
+# Welcome to vue-weather
 
 [![Version](https://img.shields.io/npm/v/vue-weather.svg)](https://www.npmjs.com/package/vue-weather)
 
